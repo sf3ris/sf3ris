@@ -6,6 +6,11 @@ Love to code in **TypeScript**, **React**, **Rust** and **Elixir**.
 
 Hybrid athlete on spare time 🏃
 
+## Want to contact me?
+
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/valerio-pizzichini-b9127998)
+  [<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail" />](mailto:valerio.pizzichini@pm.me)
+
 ## Languages
 
 <p align="left">
