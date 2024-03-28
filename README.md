@@ -44,7 +44,7 @@ Hybrid athlete on spare time 🏃
 <p align="left">
   <img src="https://img.shields.io/badge/aws-ec7211.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/digitalocean-black?style=for-the-badge&logo=digitalocean" />
 </p>
 
 ## Tools
